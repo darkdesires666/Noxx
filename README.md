@@ -19,13 +19,9 @@
 
 
 - [x] Lightning fast response time.
-
 - [x] Strong redeemable wallet identificers.
-
 - [X] RBF transacting.
-
 - [X] Global replacement rules for bitcoin rotation.
-
 - [X] No registration or KYC required, we believe in privacy.
 
 
@@ -33,9 +29,7 @@
 
 
 Address | Identifier
-
 ------------ | -------------
-
 Legacy address, no segwit. | Identifier is a redeemable code.
 
 
@@ -45,9 +39,7 @@ Legacy address, no segwit. | Identifier is a redeemable code.
 
 
 RBF | BIP
-
 ------------ | -------------
-
 Replace By Fee | BIP125
 
 
@@ -55,20 +47,15 @@ Replace By Fee | BIP125
 
 
 Encryption | Preset
-
 ------------ | -------------
-
 RSA+RC4 | Decrypt key is binded to identifier.
 
 
 
 # Other currencies are being added.
-
 ###### Once added, more code will be added than the existing code that has been added in this repo.
 
 
-
 - [ ] ETH
-
 - [ ] BCH
 
